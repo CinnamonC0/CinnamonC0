@@ -10,7 +10,7 @@
     Add my Discord below
     <div>
     <br>
-    <a href="https://discord.com/users/445430132933394432">
+    <a align="center" href="https://discord.com/users/445430132933394432">
     <img src="https://lanyard.cnrad.dev/api/445430132933394432?&animated=true&theme=dark&borderRadius=20px&hideDiscrim=true">
     </a>
     <br>
