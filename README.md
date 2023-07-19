@@ -6,7 +6,7 @@
     My name is <b>Cinnamon</b>,  I am currently "not" doing anything <br>
     I will be uploading my random code here<br>
     I mostly play Minecraft, Osu, And Genshin Impact <br>
-    If you want to contact me or just chat with me <br>
+    If you want to contact me or just message me on any of my socials<br>
     Add my Discord below
     <div>
     <br>
